@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="85" started-at="2019-08-19T12:51:48Z" finished-at="2019-08-19T12:51:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="85" started-at="2019-08-19T12:51:48Z" finished-at="2019-08-19T12:51:49Z">
+      <class name="projectpackage1.testproject.Proj1Test">
+        <test-method status="PASS" signature="method1()[pri:0, instance:projectpackage1.testproject.Proj1Test@30c7da1e]" name="method1" duration-ms="14" started-at="2019-08-19T12:51:49Z" finished-at="2019-08-19T12:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="method2()[pri:0, instance:projectpackage1.testproject.Proj1Test@30c7da1e]" name="method2" duration-ms="0" started-at="2019-08-19T12:51:49Z" finished-at="2019-08-19T12:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- projectpackage1.testproject.Proj1Test -->
+      <class name="projectpackage1.testproject.Proj3Test">
+        <test-method status="PASS" signature="method5()[pri:0, instance:projectpackage1.testproject.Proj3Test@5b464ce8]" name="method5" duration-ms="0" started-at="2019-08-19T12:51:49Z" finished-at="2019-08-19T12:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="method6()[pri:0, instance:projectpackage1.testproject.Proj3Test@5b464ce8]" name="method6" duration-ms="0" started-at="2019-08-19T12:51:49Z" finished-at="2019-08-19T12:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method6 -->
+      </class> <!-- projectpackage1.testproject.Proj3Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
