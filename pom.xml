@@ -35,8 +35,7 @@
     </pluginManagement>
   </build>
   </profile>
-  
-  <profile>
+   <profile>
   <id>Smoke</id>
   <build>
     <pluginManagement>
@@ -61,14 +60,10 @@
   </build>
   </profile>
   </profiles>
-  
-  <properties>
+    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-  
-  
-
-  <dependencies>
+   <dependencies>
     <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
